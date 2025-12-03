@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThuVien>
+  <Sach masach="s01">
+    <TenSach>Công nghệ xmlccc</TenSach>
+    <SoTrang>140</SoTrang>
+    <TacGia>
+      <HoTen>huonglan</HoTen>
+      <DiaChi>HA noi</DiaChi>
+    </TacGia>
+  </Sach>
+  <Sach masach="s02">
+    <TenSach>Công nghệ xmlccc</TenSach>
+    <SoTrang>140</SoTrang>
+    <TacGia>
+      <HoTen>huonglanpham</HoTen>
+      <DiaChi>HA noi</DiaChi>
+    </TacGia>
+  </Sach>
+</ThuVien>
